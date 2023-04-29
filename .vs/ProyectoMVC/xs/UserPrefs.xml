@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{BEB638A4-E277-4972-9065-2FD435A92332}|Default">
+  <MonoDevelop.Ide.ItemProperties.CapaPresentacionAdministrador PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.CapaPresentacionTienda FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CapaPresentacionAdministrador/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="CapaPresentacionAdministrador/Controllers/HomeController.cs" Line="21" Column="35" />
+      <File FileName="CapaPresentacionAdministrador/Views/Shared/_Layout.cshtml" />
+      <File FileName="CapaPresentacionAdministrador/Views/Home/PaginaTest.cshtml" />
+      <File FileName="CapaPresentacionAdministrador/Views/Home/Privacy.cshtml" />
+      <File FileName="CapaPresentacionAdministrador/Views/Shared/_LoginPartial.cshtml" />
+      <File FileName="CapaPresentacionAdministrador/Views/_ViewImports.cshtml" />
+      <File FileName="CapaPresentacionAdministrador/Views/_ViewStart.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProyectoMVC" expanded="True">
+            <Node name="CapaPresentacionAdministrador" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
